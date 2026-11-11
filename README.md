@@ -26,6 +26,6 @@ Results can be found in the document in the repo (not uploaded yet).
 
 The code runs with Python versions 3.13-3.15 (others have not been tested) and works with the most up to date version of its libraries as of 11/11/26
 
-The code has **no AI useage**
+AI was not used at all in the making of this program.
 
 The code was written 2~ years ago (and my skills have vastly improved since then, so please brace yourself!) 
