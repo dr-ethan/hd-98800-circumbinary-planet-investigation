@@ -22,7 +22,6 @@ To set the initial conditions of HD 98800 the following approximations are made 
 
 Results can be found in the document in the repo (not uploaded yet).
 
----
 ## Code
 
 The code runs with Python versions 3.13-3.15 (others have not been tested) and works with the most up to date version of its libraries as of 11/11/26
