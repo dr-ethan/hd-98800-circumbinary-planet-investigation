@@ -1,5 +1,5 @@
 # Hello! Welcome to one of my University projects: Simulating a potential exoplanet in the HD 98800 quadruple star system.
----
+
 ## Introduction
 
 This project aimed to simulate a Jupiter-mass exoplanet to investigate whether a stable orbit is feasible around HD 98800 B and whether the planet could be responsible for the formation of the surrounding debris disk.
