@@ -6,7 +6,7 @@ This project aimed to simulate a Jupiter-mass exoplanet to investigate whether a
 
 The system was simulated using the 3rd-order Runge-Kutta numerical integration method, with varying orbital parameters to investigate the conditions under which a stable orbital configuration could exist.
 
-One of the main challenges of this project is the binary nature of HD 98800 B. Since the system consists of two stars and a planet, its orbital dynamics form a three-body problem. Unlike simpler two-body systems, the general three-body problem has no known analytical solution, meaning that the system's behaviour must instead be investigated using numerical methods.
+One of the main challenges of this project is the binary nature of HD 98800 B. Since the system consists of two stars and a planet, its orbital dynamics form a three-body problem. Unlike simpler two-body systems, the general three-body problem has no known analytical solution, meaning that the system's behaviour must instead be investigated using numerical methods. In addition to this, HD 98800 A also contains two bodies, technically making this a five-body problem.
 
 A further challenge arises from the sensitivity of numerical simulations to their initial conditions. Runge-Kutta methods require predefined initial conditions, such as the positions and velocities of the bodies, from which their subsequent motion is calculated. Even small variations in these initial conditions can lead to vastly different orbital outcomes over long timescales, resulting in substantial differences after several hundred years. 
 
